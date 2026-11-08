@@ -1,0 +1,7 @@
+.cambc/
+bots/*/.cambc/
+bots/*/build/
+matches/
+replays/
+.venv/
+.DS_Store
